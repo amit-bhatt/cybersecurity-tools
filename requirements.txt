@@ -1,0 +1,5 @@
+# Cybersecurity Tools - Requirements
+# All tools use Python standard libraries
+# Minimum Python version: 3.6
+
+python>=3.6
